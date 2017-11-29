@@ -1,0 +1,10 @@
+Type,Name,HP,Abilities
+N,Tarkin,80,Manoeuvre,Focus
+P,Finn,86,Ice Blast, Fire Bolt, Focus
+P,Rey,72,Arcane Shot, Ice Blast, Power Attack
+N,Thrawn,48,Ice Blast,
+P,Poe,51,Sharp Shot, Med Pack
+N,Ben,42,Rage, Power Attack
+N,Phasma,38,Lightening,
+N,Daala,31,Power Attack
+P,Jess,63,Sharp Shot,Support

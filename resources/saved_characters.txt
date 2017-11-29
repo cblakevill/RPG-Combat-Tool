@@ -1,0 +1,10 @@
+Type,Name,current HP,max HP,abilities
+N,Tarkin,0,80,Manoeuvre,Focus
+P,Finn,55,86,Ice Blast,Fire Bolt,Focus
+P,Rey,18,72,Arcane Shot,Ice Blast,Power Attack
+N,Thrawn,20,48,Ice Blast,Med Pack
+P,Poe,0,51,Sharp Shot,Med Pack
+N,Ben,14,42,Rage,Power Attack
+N,Phasma,9,38,Lightening,Manoeuvre
+N,Daala,0,31,Power Attack
+P,Jess,28,63,Sharp Shot,Support
